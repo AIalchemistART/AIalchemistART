@@ -22,8 +22,8 @@ I ship **indie games** powered by **expert-level AI collaboration**—and I rese
 |:---|:---:|
 | Lines of AI-Written Code | **600k+** |
 | AI Contribution Rate | **99%** |
-| Technical Conversations | **130+** |
-| Refinement Messages | **11,109** |
+| Technical Conversations | **150+** |
+| Refinement Messages | **12k** |
 
 </div>
 
