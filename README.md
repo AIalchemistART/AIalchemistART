@@ -20,7 +20,7 @@ I ship **indie games** powered by **expert-level AI collaboration**—and I rese
 
 | 📊 AI Collaboration Stats | |
 |:---|:---:|
-| Lines of AI-Written Code | **513,366** |
+| Lines of AI-Written Code | **600k+** |
 | AI Contribution Rate | **99%** |
 | Technical Conversations | **130+** |
 | Refinement Messages | **11,109** |
