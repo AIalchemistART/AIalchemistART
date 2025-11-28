@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm Manny Walker
-### AI-Augmented Game Dev • SCMS Researcher • Cinematic Creator
+### AI-Augmented Game Dev • Continual Memory Researcher • Cinematic Creator
 
 [![Steam](https://img.shields.io/badge/ARIA--404-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/4061580/ARIA404_Labyrinth_Protocol)
 [![GitHub](https://img.shields.io/badge/SCMS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AIalchemistART/scms-starter-kit)
