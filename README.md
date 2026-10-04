@@ -20,7 +20,7 @@ I build **AI-powered products, full-stack applications, and workflow tools**—a
 
 | 📊 AI Collaboration Stats | |
 |:---|:---:|
-| Lines of AI-Written Code | **958,605+** |
+| Lines of AI-Written Code | **1 million+** |
 | AI Contribution Rate | **99%** |
 | Technical Conversations | **193** |
 | Refinement Messages | **17,664** |
